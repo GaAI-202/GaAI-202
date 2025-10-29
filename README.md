@@ -43,6 +43,12 @@ Currently, I share what I learn through my channel [@GaAI](https://www.youtube.c
 
 ---
 
+## 📊 GitHub Stats
+![Gà's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaAI-202&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaAI-202&layout=compact&theme=tokyonight)
+![Visitor Count](https://komarev.com/ghpvc/?username=GaAI-202&color=blue)
+
+---
 ### 📬 Contact
 - ✉️ **Email:** [gaai302010@gmail.com](mailto:gaai302010@gmail.com)  
 - 🎬 **YouTube:** [@GaAI](https://www.youtube.com/@GaAI-k2)  
