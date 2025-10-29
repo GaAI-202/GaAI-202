@@ -24,10 +24,12 @@ Currently, I share what I learn through my channel [@GaAI](https://www.youtube.c
 
 ### 🚀 Current Projects
 **Level 1 — Core ML Practice**
+
 🧠 Spam Detection • House Price Prediction • MNIST Classification  
 😊 Emotion Recognition • Stock Price Forecasting • Weather Prediction  
 
 **Level 2 — Applied ML for Business**
+
 📊 Customer Churn Prediction • Credit Card Fraud Detection  
 🧩 Customer Segmentation (Clustering) • Revenue Forecasting
 
